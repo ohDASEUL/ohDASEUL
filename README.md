@@ -20,7 +20,7 @@
 ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,c,cpp,cs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,c&theme=light" />
   </a>
 </p>
 
@@ -41,14 +41,14 @@
 ### Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,androidstudio,arduino,eclipse,pycharm,idea,unity&theme=light" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,androidstudio,arduino,eclipse,pycharm,idea&theme=light" />
   </a>
 </p>
 
 ### Framework
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,threejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui&theme=light" />
   </a>
 </p>
 
