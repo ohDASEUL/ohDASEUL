@@ -8,8 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohDASEUL)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohDASEUL)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🔨기술스택(교육 경험, 프로젝트 경험) 🔨
+## 🔨기술스택 🔨
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -20,7 +19,7 @@
 ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java, nodejs&theme=light" />
   </a>
 </p>
 
@@ -31,17 +30,10 @@
   </a>
 </p>
 
-### Server
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=light" />
-  </a>
-</p>
-
 ### Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,anaconda,androidstudio,arduino,eclipse,pycharm,idea&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio&theme=light" />
   </a>
 </p>
 
@@ -73,6 +65,7 @@ R&D 산업인턴십_IT 솔루션 분야 (23.09-23.12)<br>
 |22.03~22.06|진로탐색학점제_KNUTBE|교통대 학생들을 위한 학교 유용한 정보 소개 및 올바른 경제 활동을 위한 가계부 사이트 제작|HTML,CSS,바닐라JS|
 |22.09~22.12|진로탐색학점제_Travel-helper✈️|여행 커뮤니티 사이트|React|
 |23.09~23.11|졸업작품_냉장고를 부탁해🥛|냉장고 속 썩어가는 음식물을 관리하는 유통기한 관리 어플|JAVA,Firebase|
+|24.10.14~11.01|LikeLion-바닐라프로젝트_브런치스토리📕|카카오 브런치스토리 클론 프로젝트|HTML,CSS,바닐라 JS
 
 대학시절 사용했던 깃허브 계정(ds-co)을 삭제해서 
 프로젝트 결과물 깃허브 링크 삽입을 못한 점 양해부탁드립니다🥲
