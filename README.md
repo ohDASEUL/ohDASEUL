@@ -9,7 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohDASEUL)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🔨기술스택 🔨
+## 🔨기술스택(교육 경험, 프로젝트 경험) 🔨
 ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
